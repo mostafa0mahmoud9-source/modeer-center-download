@@ -1,0 +1,8 @@
+version: 2.5.2
+files:
+  - url: Modeer-Center-Setup-2.5.2.exe
+    sha512: uHXmmOZWkUH6/S4Dtd5Av4FoMMi/0Fw0MDsvsxMqEtcWjwpDs1gECHjwLzhh4c7bYMmsm87Ct1cinFUgBc4uDg==
+    size: 96377825
+path: Modeer-Center-Setup-2.5.2.exe
+sha512: uHXmmOZWkUH6/S4Dtd5Av4FoMMi/0Fw0MDsvsxMqEtcWjwpDs1gECHjwLzhh4c7bYMmsm87Ct1cinFUgBc4uDg==
+releaseDate: '2026-11-26T18:24:13.796Z'
